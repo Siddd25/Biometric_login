@@ -72,6 +72,8 @@ compileSdk = 35
 flutter run
 ```
 
+### 6. Download Apk from Release section to try out the app on Android Mobile device.
+
 
 
 
